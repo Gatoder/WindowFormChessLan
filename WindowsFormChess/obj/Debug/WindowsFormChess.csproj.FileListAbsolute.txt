@@ -1,0 +1,189 @@
+C:\Users\csuka\source\repos\Sakk Alkalmazás 2.0\Sakk Alkalmazás 2.0\obj\Debug\WindowsFormChess.csproj.AssemblyReference.cache
+C:\Users\csuka\source\repos\Sakk Alkalmazás 2.0\Sakk Alkalmazás 2.0\obj\Debug\Sakk_Alkalmazás_2._0.ConnectionForm.resources
+C:\Users\csuka\source\repos\Sakk Alkalmazás 2.0\Sakk Alkalmazás 2.0\obj\Debug\Sakk_Alkalmazás_2._0.InGameForm.resources
+C:\Users\csuka\source\repos\Sakk Alkalmazás 2.0\Sakk Alkalmazás 2.0\obj\Debug\Sakk_Alkalmazás_2._0.MainMenu.resources
+C:\Users\csuka\source\repos\Sakk Alkalmazás 2.0\Sakk Alkalmazás 2.0\obj\Debug\Sakk_Alkalmazás_2._0.PromotionForm.resources
+C:\Users\csuka\source\repos\Sakk Alkalmazás 2.0\Sakk Alkalmazás 2.0\obj\Debug\WindowsFormChess.csproj.GenerateResource.cache
+C:\Users\csuka\source\repos\Sakk Alkalmazás 2.0\Sakk Alkalmazás 2.0\obj\Debug\WindowsFormChess.csproj.CoreCompileInputs.cache
+C:\Users\csuka\source\repos\Sakk Alkalmazás 2.0\Sakk Alkalmazás 2.0\bin\Debug\Sakk Alkalmazás 2.0.exe.config
+C:\Users\csuka\source\repos\Sakk Alkalmazás 2.0\Sakk Alkalmazás 2.0\bin\Debug\Sakk Alkalmazás 2.0.exe
+C:\Users\csuka\source\repos\Sakk Alkalmazás 2.0\Sakk Alkalmazás 2.0\bin\Debug\Sakk Alkalmazás 2.0.pdb
+C:\Users\csuka\source\repos\Sakk Alkalmazás 2.0\Sakk Alkalmazás 2.0\obj\Debug\Sakk_Alkalmazás_2._0.Properties.Resources.resources
+C:\Users\csuka\source\repos\Sakk Alkalmazás 2.0\Sakk Alkalmazás 2.0\obj\Debug\Sakk Alkalmazás 2.0.exe
+C:\Users\csuka\source\repos\Sakk Alkalmazás 2.0\Sakk Alkalmazás 2.0\obj\Debug\Sakk Alkalmazás 2.0.pdb
+C:\Users\user\Desktop\régi exelek\WindowsFormChess\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe.config
+C:\Users\user\Desktop\régi exelek\WindowsFormChess\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe
+C:\Users\user\Desktop\régi exelek\WindowsFormChess\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.pdb
+C:\Users\user\Desktop\régi exelek\WindowsFormChess\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\régi exelek\WindowsFormChess\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.ConnectionForm.resources
+C:\Users\user\Desktop\régi exelek\WindowsFormChess\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.InGameForm.resources
+C:\Users\user\Desktop\régi exelek\WindowsFormChess\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.MainMenu.resources
+C:\Users\user\Desktop\régi exelek\WindowsFormChess\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.PromotionForm.resources
+C:\Users\user\Desktop\régi exelek\WindowsFormChess\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.Properties.Resources.resources
+C:\Users\user\Desktop\régi exelek\WindowsFormChess\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.GenerateResource.cache
+C:\Users\user\Desktop\régi exelek\WindowsFormChess\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\régi exelek\WindowsFormChess\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.exe
+C:\Users\user\Desktop\régi exelek\WindowsFormChess\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.pdb
+C:\Users\csuka\source\repos\WindowsFormChess\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe.config
+C:\Users\csuka\source\repos\WindowsFormChess\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe
+C:\Users\csuka\source\repos\WindowsFormChess\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.pdb
+C:\Users\csuka\source\repos\WindowsFormChess\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.AssemblyReference.cache
+C:\Users\csuka\source\repos\WindowsFormChess\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.ConnectionForm.resources
+C:\Users\csuka\source\repos\WindowsFormChess\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.InGameForm.resources
+C:\Users\csuka\source\repos\WindowsFormChess\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.MainMenu.resources
+C:\Users\csuka\source\repos\WindowsFormChess\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.PromotionForm.resources
+C:\Users\csuka\source\repos\WindowsFormChess\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.Properties.Resources.resources
+C:\Users\csuka\source\repos\WindowsFormChess\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.GenerateResource.cache
+C:\Users\csuka\source\repos\WindowsFormChess\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.CoreCompileInputs.cache
+C:\Users\csuka\source\repos\WindowsFormChess\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.exe
+C:\Users\csuka\source\repos\WindowsFormChess\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.pdb
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe.config
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.pdb
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.ConnectionForm.resources
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.InGameForm.resources
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.MainMenu.resources
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.PromotionForm.resources
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.Properties.Resources.resources
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.exe
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.pdb
+C:\Users\Bao\Desktop\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe.config
+C:\Users\Bao\Desktop\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe
+C:\Users\Bao\Desktop\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.pdb
+C:\Users\Bao\Desktop\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.AssemblyReference.cache
+C:\Users\Bao\Desktop\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.ConnectionForm.resources
+C:\Users\Bao\Desktop\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.InGameForm.resources
+C:\Users\Bao\Desktop\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.MainMenu.resources
+C:\Users\Bao\Desktop\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.PromotionForm.resources
+C:\Users\Bao\Desktop\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.Properties.Resources.resources
+C:\Users\Bao\Desktop\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.GenerateResource.cache
+C:\Users\Bao\Desktop\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.CoreCompileInputs.cache
+C:\Users\Bao\Desktop\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.exe
+C:\Users\Bao\Desktop\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.pdb
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe.config
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.pdb
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.ConnectionForm.resources
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.InGameForm.resources
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.MainMenu.resources
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.PromotionForm.resources
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.Properties.Resources.resources
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.exe
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.pdb
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Elasticsearch.Net.dll
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Nest.dll
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Buffers.dll
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Memory.dll
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Elasticsearch.Net.pdb
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Elasticsearch.Net.xml
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Nest.pdb
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Nest.xml
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Buffers.xml
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Memory.xml
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\Downloads\WindowsFormChess-LAN--main (1)\WindowsFormChess-LAN--main\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.CopyComplete
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe.config
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.pdb
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Elasticsearch.Net.dll
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Nest.dll
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Buffers.dll
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Memory.dll
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Elasticsearch.Net.pdb
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Elasticsearch.Net.xml
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Nest.pdb
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Nest.xml
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Buffers.xml
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Memory.xml
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.ConnectionForm.resources
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.InGameForm.resources
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.MainMenu.resources
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.PromotionForm.resources
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.Properties.Resources.resources
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.CopyComplete
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.exe
+C:\Users\Asus\Downloads\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.pdb
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe.config
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.pdb
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Elasticsearch.Net.dll
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Nest.dll
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Buffers.dll
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Memory.dll
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Numerics.Vectors.dll
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Elasticsearch.Net.pdb
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Elasticsearch.Net.xml
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Nest.pdb
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Nest.xml
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Buffers.xml
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Memory.xml
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Numerics.Vectors.xml
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.AssemblyReference.cache
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.SuggestedBindingRedirects.cache
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.ConnectionForm.resources
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.Form1.resources
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.InGameForm.resources
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.MainMenu.resources
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.PromotionForm.resources
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.Properties.Resources.resources
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.GenerateResource.cache
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.CoreCompileInputs.cache
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.CopyComplete
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.exe
+D:\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.pdb
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe.config
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.pdb
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Elasticsearch.Net.dll
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Nest.dll
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Buffers.dll
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Memory.dll
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Numerics.Vectors.dll
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Elasticsearch.Net.pdb
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Elasticsearch.Net.xml
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Nest.pdb
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\Nest.xml
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Buffers.xml
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Memory.xml
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Numerics.Vectors.xml
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.AssemblyReference.cache
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.SuggestedBindingRedirects.cache
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.ConnectionForm.resources
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.InGameForm.resources
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.MainMenu.resources
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.PromotionForm.resources
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.Properties.Resources.resources
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.GenerateResource.cache
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.CoreCompileInputs.cache
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.CopyComplete
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.exe
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.pdb
+D:\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.client.resources
